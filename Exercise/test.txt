@@ -1,0 +1,8 @@
+dog
+cat
+bat
+rat
+bird
+tiger
+rino
+warm
